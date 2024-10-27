@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Neil-Pentony
+- 👀 I’m interested in Software Development and programming
+- 🌱 I’m currently learning full stack web development
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me
+- instagram: https://www.instagram.com/neil_pentony_28/#
+- linkedIn: https://in.linkedin.com/in/neil-pentony-456366325
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I race cars, and I like to box.
