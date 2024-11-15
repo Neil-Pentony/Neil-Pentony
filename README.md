@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neil-Pentony
-- 👀 I’m interested in Software Development and programming
+- 👀 I’m interested in Web Development and programming
 - 🌱 I’m currently learning full stack web development
 - 📫 How to reach me
 - instagram: https://www.instagram.com/neil_pentony_28/#
